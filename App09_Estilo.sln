@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App09_Estilo.Android", "App
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App09_Estilo.iOS", "App09_Estilo\App09_Estilo.iOS\App09_Estilo.iOS.csproj", "{7E27936C-954C-4D93-B92F-5C08E50ED694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App09_Estilo", "App09_Estilo\App09_Estilo\App09_Estilo.csproj", "{2F9E8A0D-D8B0-40F3-8336-5FD0ED530230}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App09_Estilo", "App09_Estilo\App09_Estilo\App09_Estilo.csproj", "{2F9E8A0D-D8B0-40F3-8336-5FD0ED530230}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,6 +7,10 @@
         <ContentPage Title="Menu">
             <StackLayout>
                 <Button Text="Implicit Style" Clicked="GoStyle1"/>
+                <Button Text="Explicit Style" Clicked="GoStyle2"/>
+                <Button Text="Global Style" Clicked="GoStyle3"/>
+                <Button Text="Inherit Style" Clicked="GoStyle4"/>
+                <Button Text="Dynamic Style" Clicked="GoStyle5"/>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>

@@ -3,10 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:App09_Estilo"
              x:Class="App09_Estilo.MainPage">
-
+    
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to Xamarin.Forms! - Main Page"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
